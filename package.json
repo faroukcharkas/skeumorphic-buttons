@@ -1,0 +1,11 @@
+{
+  "name": "skeuomorphic-buttons",
+  "version": "1.0.0",
+  "description": "This is a challenge to create skeuomorphic buttons/toggles using just TailwindCSS.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./styles/tailwind.css -o ./styles/output.css --watch"
+  },
+  "author": "farouk.charkas@gmail.com",
+  "license": "ISC"
+}
